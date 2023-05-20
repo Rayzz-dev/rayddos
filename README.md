@@ -1,6 +1,8 @@
 ikuti yang saya jelaskan
 
-ketik dibawah ini berurutan
+ketik/salin dan paste dibawah ini berurutan
+
+git clone https://github.com/Rayzz-dev/rayddos
 
 cd rayddos    
 
